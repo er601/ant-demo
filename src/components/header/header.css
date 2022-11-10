@@ -1,0 +1,10 @@
+.logo-tittle {
+    font-family: 'Monoton', cursive;
+    font-size: 28px;
+    color: #1BB1DC;
+}
+@font-face {
+    font-family: 'Monoton';
+    src: url("../../fonts/Monoton-Regular.ttf") format("truetype");
+
+}
